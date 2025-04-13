@@ -116,5 +116,5 @@ plt.figtext(0.02, 0.95, 'Điểm ngoặt: E - U_hd = 0 ⟹ E = M²/(2mr²) ⟹ r
 plt.figtext(0.02, 0.92, 'Điều kiện tồn tại chuyển động: E ≥ U_hd ⟹ r ≥ r_min', fontsize=9)
 
 plt.tight_layout(rect=[0, 0.2, 1, 0.9])
-plt.suptitle('Mô phỏng chuyển động trong trường lực trung tâm', fontsize=16)
+plt.suptitle('Mô phỏng chuyển động trong trường lực xuyên tâm', fontsize=16)
 plt.show()
